@@ -1,3 +1,8 @@
-﻿# Code for running the simulations and for plotting the figures of the paper "Reconciling time and reward-prediction error theories of associative learning"
+﻿# Reconciling time and reward-prediction error theories of associative learning
 
-The Jupyter notebook contains all the code for running the simulations (Bayseian model and Temporal Causal Learning model) and for plotting the figures in the paper.
+This repository contains all the resources required to replicate the simulations and visualizations presented in the paper.
+
+- Jupyter Notebook: Includes the code for running simulations using the Bayesian Model and the Temporal Causal Learning (TCL) model, as well as for generating the figures featured in the paper.
+- Data Folder: Contains preprocessed datasets sourced from various experimental studies cited in the paper.
+- Figures Folder: Contains the simulated figures generated from the models and featured in the paper.
+
